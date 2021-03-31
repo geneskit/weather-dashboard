@@ -16,3 +16,7 @@ var searchFunction = function (event) {
     event.preventDefault();
 }
 
+var forecastInfo = function (search) {
+    // Add a feature to ask user if they prefer metric or imperial units
+    var searchURL = "api.openweathermap.org/data/2.5/weather?q=" + search + 
+}
