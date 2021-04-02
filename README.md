@@ -21,4 +21,4 @@ GIVEN a weather dashboard with form inputs
 - Bootstrap
 
 ## Available Link(s)
-- [Deployed GitHub Link]()
+- [Deployed GitHub Link](https://geneskit.github.io/weather-dashboard/)
